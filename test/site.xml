@@ -1,12 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/help_action/adjustments-fbf.htm</loc>
+        <loc>https://github.com/applearrow/dummy-site/blob/main/test/a.txt</loc>
     </url>
     <url>
-        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/help_action/ap-adjustments-apply.htm</loc>
+        <loc>https://github.com/applearrow/dummy-site/blob/main/test/b.txt</loc>
     </url>
     <url>
-        <loc>
-            https://semantic-search-hub-dev1.dev-data.sage.com/help_action/ap-adjustments-create.htm</loc>
+        <loc>https://github.com/applearrow/dummy-site/blob/main/test/c.txt</loc>
     </url>
 </urlset>
