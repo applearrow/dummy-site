@@ -1,11 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://github.com/applearrow/dummy-site/blob/main/test/a.html</loc>
+        <loc>https://github.com/applearrow/dummy-site/blob/main/test/a.htm</loc>
     </url>
     <url>
-        <loc>https://github.com/applearrow/dummy-site/blob/main/test/b.html</loc>
+        <loc>https://github.com/applearrow/dummy-site/blob/main/test/b.htm</loc>
     </url>
     <url>
-        <loc>https://github.com/applearrow/dummy-site/blob/main/test/c.html</loc>
+        <loc>https://github.com/applearrow/dummy-site/blob/main/test/c.htm</loc>
     </url>
 </urlset>
