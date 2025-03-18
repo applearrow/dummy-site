@@ -1,11 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/dummy/x.htm</loc>
+        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/dummy/x.html</loc>
     </url>
     <url>
-        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/dummy/y.htm</loc>
+        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/dummy/y.html</loc>
     </url>
     <url>
-        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/dummy/z.htm</loc>
+        <loc>https://semantic-search-hub-dev1.dev-data.sage.com/dummy/z.html</loc>
     </url>
 </urlset>

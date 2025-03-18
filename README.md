@@ -8,10 +8,10 @@ https://applearrow.github.io/dummy-site/test
 
 ### documents
 This site has the one html document per alphabet letter, for example:
-- [a.htm](https://applearrow.github.io/dummy-site/test/a.htm)
-- [b.htm](https://applearrow.github.io/dummy-site/test/b.htm)
+- [a.html](https://applearrow.github.io/dummy-site/test/a.html)
+- [b.html](https://applearrow.github.io/dummy-site/test/b.html)
 - ...
-- [z.htm](https://applearrow.github.io/dummy-site/test/z.htm)
+- [z.html](https://applearrow.github.io/dummy-site/test/z.html)
 
 ### sitemaps
 This site has also the following sitemaps:
