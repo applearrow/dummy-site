@@ -1,5 +1,6 @@
 # dummy-site
 This site is intended for testing purposes.
+Look [here](https://til.simonwillison.net/github/github-pages) for interesting details about Github Pages nuts & bolts.
 
 ## test
 Both the documents and sitemaps are located under the following url:
