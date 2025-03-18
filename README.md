@@ -1,2 +1,2 @@
 # dummy-site
-Quick repo for ~/dev/data/dummy-site
+This site is intended for testing purposes.
